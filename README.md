@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ![Gulp](https://img.shields.io/badge/-Gulp-336791?style=flat-square&logo=Gulp)
 ![Ionic](https://img.shields.io/badge/-Ionic-430098?style=flat-square&logo=Ionic)
 ![React](https://img.shields.io/badge/-React-563D7C?style=flat-square&logo=React)
-![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=Vue)
+![Vuejs](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=Vuejs)
 
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
