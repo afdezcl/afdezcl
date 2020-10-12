@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![RxJS](https://img.shields.io/badge/-rxjs-E34A86?style=flat-square&logo=rxjs)
+![NGxstore](https://img.shields.io/badge/-NGxstore-E34A86?style=flat-square&logo=NGxstore)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -39,6 +40,8 @@ Here are some ideas to get you started:
 ![Karma](https://img.shields.io/badge/-Karma-E10098?style=flat-square&logo=Karma)
 ![Gulp](https://img.shields.io/badge/-Gulp-336791?style=flat-square&logo=Gulp)
 ![Ionic](https://img.shields.io/badge/-Ionic-430098?style=flat-square&logo=Ionic)
+![React](https://img.shields.io/badge/-React-430098?style=flat-square&logo=React)
+![Vue](https://img.shields.io/badge/-Vue-430098?style=flat-square&logo=Vue)
 
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
