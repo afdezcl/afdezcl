@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 I'm a front-end engineer.
-- 💼 I'm a head of front-end at Genengine (https://genengine.es) and co-founder of KEMENU [<img src="logo-simbolo-kemenu.svg"  height="50"/>](https://kemenu.com)
+- 💼 I'm a head of front-end at Genengine (https://genengine.es) and co-founder of KEMENU [<img src="logo-simbolo-kemenu.svg" height="30"/>](https://kemenu.com)
 - 🎓 I've studied Computer Engenieering at University of Malaga.
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
