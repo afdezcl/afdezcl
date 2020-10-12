@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 🎓 𝙸've 𝚜𝚝𝚞𝚍ied Computer Engenieering at University of Malaga.
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-- LinkedIn: (https://www.linkedin.com/in/adrian-fernandez-75b87115b/)
-- Personal Web: (https://adrianfernandez.site)
+[![Linkedin Badge](https://img.shields.io/badge/-adrianfernandez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-fernandez-75b87115b/)](https://www.linkedin.com/in/adrian-fernandez-75b87115b/)
+[![Web Badge](https://img.shields.io/badge/-adrianfernandez.site-blue?style=flat-square&logo=google-chrome&logoColor=white&link=https://adrianfernandez.site)](https://adrianfernandez.site)
