@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [<img src="hello-world.gif" />](https://adrianfernandez.site)
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## :book: About me
 - 🖥 I'm a front-end engineer.
 - 💼 I'm a head of front-end at Genengine [<img src="genegine.png" height="20"/>](https://genengine.es) and co-founder of KEMENU [<img src="logo-simbolo-kemenu.svg" height="20"/>](https://kemenu.com)
 - 🎓 I've studied Computer Engenieering at University of Malaga.
@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 ![Vuejs](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=Vuejs)
 
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+## 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-adrianfernandez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-fernandez-75b87115b/)](https://www.linkedin.com/in/adrian-fernandez-75b87115b/)
 [![Web Badge](https://img.shields.io/badge/-adrianfernandez.site-blue?style=flat-square&logo=google-chrome&logoColor=white&link=https://adrianfernandez.site)](https://adrianfernandez.site)
