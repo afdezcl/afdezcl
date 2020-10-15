@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=Cypress)
 ![Jasmine](https://img.shields.io/badge/-Jasmine-005571?style=flat-square&logo=Jasmine)
+![Jest](https://img.shields.io/badge/-Jest-944058?style=flat-square&logo=Jest)
 ![Karma](https://img.shields.io/badge/-Karma-E10098?style=flat-square&logo=Karma)
 ![Gulp](https://img.shields.io/badge/-Gulp-336791?style=flat-square&logo=Gulp)
 ![Ionic](https://img.shields.io/badge/-Ionic-430098?style=flat-square&logo=Ionic)
