@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 [<img src="hello-world.gif" />](https://adrianfernandez.site)
 
 ## :book: About me
-- 🖥 I'm a front-end engineer.
-- 💼 I'm a full-stack engineer at Hiberus [<img src="hiberus.png" height="20"/>](https://www.hiberus.com/) (at MANGO company) and co-founder of KEMENU [<img src="logo-simbolo-kemenu.svg" height="20"/>](https://kemenu.com)
+- 💼 I'm a full-stack engineer at Zinklar
 - 🎓 I've studied Computer Engineering at University of Malaga.
 
 
