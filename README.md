@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 [<img src="hello-world.gif" />](https://adrianfernandez.site)
 
 ## :book: About me
-- 💼 I'm a full-stack engineer at Zinklar
-- 🎓 I've studied Computer Engineering at University of Malaga.
+- 💼 I'm a full-stack engineer at Freepik
+- 🎓 I've studied Software Engineering at University of Malaga.
 
 
 ## ⚡ Technologies
 
+![React](https://img.shields.io/badge/-React-563D7C?style=flat-square&logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![RxJS](https://img.shields.io/badge/-rxjs-E34A86?style=flat-square&logo=rxjs)
 ![NGRxStore](https://img.shields.io/badge/-NGxstore-E34A86?style=flat-square&logo=NGxstore)
-![React](https://img.shields.io/badge/-React-563D7C?style=flat-square&logo=React)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
