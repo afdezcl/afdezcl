@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [<img src="hello-world.gif" />](https://adrianfernandez.site)
 
 ## :book: About me
-- 💼 I'm a full-stack engineer at Freepik
+- 💼 I'm a Frontend Engineer at Freepik
 - 🎓 I've studied Software Engineering at University of Malaga.
 
 
